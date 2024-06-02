@@ -32,9 +32,9 @@ public class Main {
 
     /*
             Iterator vs. ListIterator
-            - An iterator is forwards only, and only supports the remove method
+            - An iterator: is forwards only, and only supports the remove method
 
-            ListIterator... can be used to go both forwards and backwards, and in addition to the remove method,
+            - ListIterator:can be used to go both forwards and backwards, and in addition to the remove method,
             it also supports add and set method
      */
 

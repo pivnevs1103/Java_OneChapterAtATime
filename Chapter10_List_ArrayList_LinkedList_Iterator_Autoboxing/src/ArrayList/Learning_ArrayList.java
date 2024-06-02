@@ -13,6 +13,7 @@ record GroceryItem(String name, String type, int count){
         return String.format("%d %s in %s", count, name.toUpperCase(), type);
     }
 }
+
 public class Learning_ArrayList {
     public static void main(String[] args) {
 

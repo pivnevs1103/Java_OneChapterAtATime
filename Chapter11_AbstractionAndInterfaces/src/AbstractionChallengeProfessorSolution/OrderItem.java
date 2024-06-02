@@ -1,0 +1,4 @@
+package AbstractionChallengeProfessorSolution;
+
+public record OrderItem(int qty, ProductForSale product) {
+}

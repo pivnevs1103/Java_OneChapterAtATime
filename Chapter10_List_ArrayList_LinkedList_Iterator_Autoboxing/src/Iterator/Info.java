@@ -24,7 +24,7 @@ public class Info {
        WHAT IT DOES-----------------------
        - This would just print each element in the list, but do it through the iterator object
        - When an iterator is created, its cursor position is pointed at a position before the first element
-       - The first call to the next method gets teh first element, and moves the cursor position, to be between the
+       - The first call to the next method gets the first element, and moves the cursor position, to be between the
        first and second element
        - Subsequent, calls to the next method moves the iterators position through the list, as shown, until there are
        no position left, meaning hasNext = false;

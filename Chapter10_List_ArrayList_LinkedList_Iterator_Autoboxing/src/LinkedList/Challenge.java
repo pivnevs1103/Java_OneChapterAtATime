@@ -129,7 +129,7 @@ public class Challenge {
 
     private static void listPlaces(LinkedList<Town> destinations){
 
-        ListIterator list = destinations.listIterator();
+        var list = destinations.listIterator();
         int i = 1;
 
         System.out.println("\nListing places based on the Itinerary: ");
